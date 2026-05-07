@@ -15,8 +15,7 @@ Ian Joshue Rojas Hurtado
 ## Visualización
 El sitio está desplegado y accesible públicamente a través de GitHub Pages.
 
-**Enlace a la Página Pública:** https://ian-rojas.github.io/Portafolio/
-
+**Enlace a la Página Pública:** https://trilain.github.io/Portafolio
 
 ## Estructura del Repositorio
 El código fuente está organizado siguiendo una estructura profesional:
